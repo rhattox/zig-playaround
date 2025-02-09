@@ -1,1 +1,4 @@
-# zig-playaround
+zig init
+
+
+zig build run
